@@ -1,0 +1,8 @@
+List of Alkali Metals
+H
+Li
+Na
+K
+Rb
+Cs
+Fr
